@@ -1,0 +1,381 @@
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\bin\Debug\MetroFramework.Design.dll
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\bin\Debug\MetroFramework.dll
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddInventory.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddUser.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Category.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ChangePassword.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Complaint.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditInventory.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditStock.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditUser.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddSale.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductReturn.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ResetPassword.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Role.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Settings.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sales.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ApplicationSettings.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockLevel.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserLoginDetails.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserReport.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Inventory.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.InventoryReport.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Login.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MainInterface.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MessageBoxForm.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Reports.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SplashScreen.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddStock.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Stock.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockReport.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Users.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewInventory.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewStock.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewSales.resources
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.Cache
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.cache
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.compiled
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csprojResolveAssemblyReference.cache
+C:\Users\TheBoyCC\Documents\Visual Studio 2013\Projects\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MergeComplaint.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddInventory.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddUser.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Category.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ChangePassword.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Complaint.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditInventory.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditStock.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditUser.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddSale.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MergeComplaint.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductReturn.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ResetPassword.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Role.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Settings.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sales.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ApplicationSettings.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockLevel.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserLoginDetails.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserReport.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Inventory.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.InventoryReport.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Login.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MainInterface.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MessageBoxForm.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Reports.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SplashScreen.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddStock.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Stock.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockReport.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Users.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewInventory.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewStock.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewSales.resources
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+C:\Users\User\Desktop\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddInventory.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddUser.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Category.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ChangePassword.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Complaint.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditInventory.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditStock.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditUser.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddSale.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MergeComplaint.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductReturn.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ResetPassword.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Role.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Settings.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sales.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ApplicationSettings.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockLevel.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserLoginDetails.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserReport.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Inventory.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.InventoryReport.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Login.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MainInterface.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MessageBoxForm.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Reports.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SplashScreen.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddStock.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Stock.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockReport.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Users.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewInventory.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewStock.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewSales.resources
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.compiled
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddUser.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Category.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ChangePassword.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Complaint.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditStock.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditUser.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddSale.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductReturn.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ResetPassword.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Role.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Settings.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sales.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ApplicationSettings.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockLevel.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserLoginDetails.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Login.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MainInterface.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MessageBoxForm.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SplashScreen.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddStock.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Stock.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Users.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.Cache
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Debtors.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.CREDITORS.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddDebtor.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditDebtor.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddCreditor.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditCreditor.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csprojResolveAssemblyReference.cache
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddCreditor.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddDebtor.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddInventory.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddUser.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Category.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ChangePassword.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Complaint.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Creditors.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Debtors.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditCreditor.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditDebtor.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditInventory.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditStock.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditUser.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddSale.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MergeComplaint.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductReturn.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ResetPassword.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Role.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Settings.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sales.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ApplicationSettings.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockLevel.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserLoginDetails.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Login.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MainInterface.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MessageBoxForm.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SplashScreen.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddStock.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Stock.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Users.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewStock.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ViewSales.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.Cache
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DamagedStock.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddPurchase.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Purchases.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchaseReturn.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DamagedStock.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddPurchase.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchaseReturn.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Purchases.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.cache
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.compiled
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchasesReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchasesReturnReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DamagedStockReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchasesReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchasesReturnReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DamagedStockReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.cache
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.compiled
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.SqlServer.dll
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.xml
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.SqlServer.xml
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MonthlySalesReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.YearlySalesReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DebtorsReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.CreditorsReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.InvoiceReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.xml
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.CreditorsReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DebtorsReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.InvoiceReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MonthlySalesReport.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ExpiredDrug.resources
+C:\Users\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.YearlySalesReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.manifest
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.application
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe.manifest
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.application
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csprojResolveAssemblyReference.cache
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReturnReport.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport2.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ExpiredDamaged.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Expired.resources
+E:\Desktopp\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AdvanceAlert.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.manifest
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.application
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.xml
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csprojResolveAssemblyReference.cache
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddCreditor.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddDebtor.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddSale.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddUser.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AdvanceAlert.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Category.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ChangePassword.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Complaint.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Creditors.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.CreditorsReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DamagedStock.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Debtors.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DebtorsReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditCreditor.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditDebtor.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditStock.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.EditUser.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddPurchase.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Expired.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ExpiredDamaged.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.InvoiceReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MainInterface.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MonthlySalesReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductReturn.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchaseReturn.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchasesReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.PurchasesReturnReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ResetPassword.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Role.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sales.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReport2.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.DamagedStockReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SalesReturnReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Settings.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockLevel.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.StockReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Purchases.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ApplicationSettings.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserLoginDetails.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.UserReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Login.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.MessageBoxForm.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.SplashScreen.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.AddStock.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Stock.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Users.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point_Of_Sale_System.YearlySalesReport.resources
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.Cache
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.cache
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\RdlCompile.compiled
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe.manifest
+E:\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.application
+E:\Cyril\E\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+E:\Cyril\E\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+E:\Cyril\E\Cyril\Desktop\Temp\Point Of Sale System\Point Of Sale System\obj\Debug\Point Of Sale System.pdb

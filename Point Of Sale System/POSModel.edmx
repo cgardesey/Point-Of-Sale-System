@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="POSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <Function Name="GetMonthlySales" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="year" Type="int" Mode="In" />
+        </Function>
+        <Function Name="GetSalesYear" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="GetYearlySales" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FromYear" Type="int" Mode="In" />
+          <Parameter Name="ToYear" Type="int" Mode="In" />
+        </Function>
+        <Function Name="GetYearlySales1" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FromYear" Type="int" Mode="In" />
+          <Parameter Name="ToYear" Type="int" Mode="In" />
+        </Function>
+        <EntityContainer Name="POSModelStoreContainer" />
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="POSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="POSEntities" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="GetMonthlySales" ReturnType="Collection(POSModel.GetMonthlySales_Result)">
+          <Parameter Name="year" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="GetSalesYear" ReturnType="Collection(Int32)">
+          </FunctionImport>
+          <FunctionImport Name="GetYearlySales" ReturnType="Collection(POSModel.GetYearlySales_Result)" >
+            <Parameter Name="FromYear" Mode="In" Type="Int32" />
+            <Parameter Name="ToYear" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="GetYearlySales1" ReturnType="Collection(POSModel.GetYearlySales1_Result)">
+            <Parameter Name="FromYear" Mode="In" Type="Int32" />
+            <Parameter Name="ToYear" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="GetMonthlySales_Result">
+          <Property Type="Int32" Name="Month" Nullable="true" />
+          <Property Type="Decimal" Name="Sale" Nullable="true" Precision="38" Scale="2" />
+        </ComplexType>
+        <ComplexType Name="GetYearlySales_Result">
+          <Property Type="Int32" Name="Year" Nullable="true" />
+          <Property Type="Decimal" Name="Sales" Nullable="true" Precision="38" Scale="2" />
+        </ComplexType>
+        <ComplexType Name="GetYearlySales1_Result">
+          <Property Type="Int32" Name="Year" Nullable="true" />
+          <Property Type="Decimal" Name="Sales" Nullable="true" Precision="38" Scale="2" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="POSModelStoreContainer" CdmEntityContainer="POSEntities" >
+          <FunctionImportMapping FunctionImportName="GetMonthlySales" FunctionName="POSModel.Store.GetMonthlySales">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="POSModel.GetMonthlySales_Result">
+                <ScalarProperty Name="Month" ColumnName="Month" />
+                <ScalarProperty Name="Sale" ColumnName="Sale" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="GetSalesYear" FunctionName="POSModel.Store.GetSalesYear" />
+          <FunctionImportMapping FunctionImportName="GetYearlySales" FunctionName="POSModel.Store.GetYearlySales">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="POSModel.GetYearlySales_Result">
+                <ScalarProperty Name="Year" ColumnName="Year" />
+                <ScalarProperty Name="Sales" ColumnName="Sales" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="GetYearlySales1" FunctionName="POSModel.Store.GetYearlySales1">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="POSModel.GetYearlySales1_Result">
+                <ScalarProperty Name="Year" ColumnName="Year" />
+                <ScalarProperty Name="Sales" ColumnName="Sales" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

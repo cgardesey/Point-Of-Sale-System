@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="POSModelStoreContainer" CdmEntityContainer="POSEntities">
+    <FunctionImportMapping FunctionImportName="GetMonthlySales" FunctionName="POSModel.Store.GetMonthlySales">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="POSModel.GetMonthlySales_Result">
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Sale" ColumnName="Sale" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetSalesYear" FunctionName="POSModel.Store.GetSalesYear" />
+    <FunctionImportMapping FunctionImportName="GetYearlySales" FunctionName="POSModel.Store.GetYearlySales">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="POSModel.GetYearlySales_Result">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Sales" ColumnName="Sales" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetYearlySales1" FunctionName="POSModel.Store.GetYearlySales1">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="POSModel.GetYearlySales1_Result">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Sales" ColumnName="Sales" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

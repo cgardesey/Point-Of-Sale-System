@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="POSEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetMonthlySales" ReturnType="Collection(POSModel.GetMonthlySales_Result)">
+      <Parameter Name="year" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="GetSalesYear" ReturnType="Collection(Int32)" />
+    <FunctionImport Name="GetYearlySales" ReturnType="Collection(POSModel.GetYearlySales_Result)">
+      <Parameter Name="FromYear" Mode="In" Type="Int32" />
+      <Parameter Name="ToYear" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="GetYearlySales1" ReturnType="Collection(POSModel.GetYearlySales1_Result)">
+      <Parameter Name="FromYear" Mode="In" Type="Int32" />
+      <Parameter Name="ToYear" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GetMonthlySales_Result">
+    <Property Type="Int32" Name="Month" Nullable="true" />
+    <Property Type="Decimal" Name="Sale" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="GetYearlySales_Result">
+    <Property Type="Int32" Name="Year" Nullable="true" />
+    <Property Type="Decimal" Name="Sales" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="GetYearlySales1_Result">
+    <Property Type="Int32" Name="Year" Nullable="true" />
+    <Property Type="Decimal" Name="Sales" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+</Schema>
