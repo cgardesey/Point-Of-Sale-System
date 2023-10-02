@@ -1,44 +1,63 @@
-# Point of Sale (POS) Management System
+# Windows Forms POS Application
 
-The Point of Sale Management System is a Windows Forms application developed in C# that allows businesses to manage their sales transactions efficiently. This POS system provides a user-friendly interface for both the cashiers and the administrators, enabling them to process sales, manage inventory, and generate various reports.
+## Overview
+This is a simple Windows Forms Point of Sale (POS) application for managing sales and inventory in a retail store. It allows users to add products to a cart, process sales, and track inventory levels.
 
 ## Features
+- User-friendly graphical interface.
+- Add products to the cart.
+- Calculate total cost and generate receipts.
+- Manage product inventory.
+- Search for products by name.
+- Role based permissions.
+- Generate report on sales, products, stock level, users
+- Receive alerts when stock levels are low
 
-- **User Authentication**: Secure login system for cashiers and administrators.
-- **Product Management**: Add, update, and remove products from the inventory.
-- **Sales Transactions**: Process sales, apply discounts, and generate receipts.
-- **Inventory Management**: Track product quantities, receive low stock alerts.
-- **Reporting**: Generate sales reports, transaction history, and product performance reports.
+## Prerequisites
+- Windows OS (Windows 7 or higher).
+- .NET Framework 4.7.2 or higher.
+- Visual Studio (2015 or higher) for development.
 
-## Technologies Used
+## Getting Started
+1. Clone the repository to your local machine:
 
-- **C#**: Programming language used for the application logic.
-- **Windows Forms (WinForms)**: GUI framework for creating desktop applications.
-- **SQL Server:** A relational database management system to store and manage student data securely.
-- **Entity Framework**: ORM for data access and manipulation.
-- **Visual Studio**: Integrated development environment (IDE) for C# development.
+    ```bash
+    git clone https://github.com/cgardesey/TMSA.git
+    ```
 
-## Installation and Usage
+2. Open the solution in Visual Studio.
 
-1. Clone the repository: `git clone https://github.com/username/pos-management-system.git`
-2. Open the solution file in Visual Studio.
-3. Restore NuGet packages and build the solution.
-4. Configure the database connection string in `app.config` or `web.config`.
-5. Run the application.
+3. Build the project to ensure all dependencies are resolved.
+
+4. Run the application by pressing F5 or clicking the "Start" button in Visual Studio.
+
+## Usage
+- Login as an admin to add and manage users and products.
+- Login as a cashier to process sales.
+- Use the "Add to Cart" button to add products to the cart.
+- Process the sale and generate a receipt.
+- Check the inventory status in the admin panel.
+
+## Configuration
+- Modify the connection string in `app.config` to set up your database.
+- Customize product categories, tax rates, and other settings in the configuration.
 
 ## Contributing
-If you'd like to contribute to this project, please follow these steps:
-- Fork the repository on GitHub.
-- Create a new branch with a descriptive name.
-- Commit your changes to the new branch.
-- Push the branch to your forked repository.
-- Submit a pull request to the original repository.
-
-Please ensure that your code follows the project's coding standards and includes appropriate tests for any new functionality.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/new-feature`.
+3. Make your changes and commit them: `git commit -m "Add new feature"`.
+4. Push to your fork: `git push origin feature/new-feature`.
+5. Create a pull request to the main repository.
 
 ## License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) file for details.
 
----
+## Acknowledgments
+- Thanks to the creators of the Windows Forms framework for making GUI development easy.
+- Shoutout to the .NET community for their valuable contributions.
 
-**Note:** This README is a template and should be customized according to the specific details of your POS Management System. Add more sections as needed to provide comprehensive information about your project.
+## Contact
+For any questions or issues, please contact:
+- Cyril Gardesey <cyrilgardesey@gmail.com>
+
+Happy coding!
