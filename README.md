@@ -5,6 +5,7 @@ This is a simple Windows Forms Point of Sale (POS) application for managing sale
 
 ## Features
 - User-friendly graphical interface.
+- Backup database
 - Add products to the cart.
 - Calculate total cost and generate receipts.
 - Manage product inventory.
